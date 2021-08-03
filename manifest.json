@@ -1,0 +1,23 @@
+{
+  "name": "Within",
+  "description": "Site-blocking productivity app with time-tracking.",
+  "version": "1.0",
+  "offline_enabled": true,
+  "manifest_version": 3,
+  "options_page": "index.html",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "action": {
+    "default_icon": {
+      "16": "ic_launcher48.png",
+      "32": "ic_launcher48.png",
+      "48": "ic_launcher48.png",
+      "128": "ic_launcher48.png"
+    }
+  },
+  "icons": {
+    "16": "ic_launcher48.png",
+    "32": "ic_launcher48.png",
+    "48": "ic_launcher48.png",
+    "128": "ic_launcher48.png"
+  }
+}
